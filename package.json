@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "aws-sdk": "^2.834.0",
+    "chalk": "^4.1.0",
     "commander": "^7.0.0",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   }
