@@ -1,4 +1,4 @@
-# CodeBuild Log Parser
+# AWS CodeBuild Log Parser
 
 For caching and parsing aws codebuild cloudwatch logs. Assumes aws token, secret and region are configured or exist in environment.
 
